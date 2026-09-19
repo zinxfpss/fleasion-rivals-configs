@@ -1,6 +1,6 @@
 # 🎨 Fleasion Rivals Configs
 
-**A collection of custom configs, sounds, skins, textures, and other assets for [Fleasion](https://github.com/fleasion/Fleasion) in Roblox Rivals.**
+**A collection of custom configs, sounds, skins, textures, skyboxes, wraps, and more for [Fleasion](https://github.com/fleasion/Fleasion) in Roblox Rivals.**
 
 ---
 
@@ -17,9 +17,20 @@ This repository contains custom **Fleasion configs and assets** for Roblox Rival
 - Skins
 - Textures
 - Skyboxes
+- Wraps
 - Other custom configs
 
 More content will be added over time.
+
+---
+
+## 💻 Supported Platforms
+
+Fleasion supports Roblox Rivals on:
+
+- 🪟 **Windows**
+- 🍎 **macOS**
+- 🐧 **Linux** — through **Sober**
 
 ---
 
@@ -39,8 +50,9 @@ More content will be added over time.
 
 - 🎮 Made for **Roblox Rivals**
 - ⚙️ Designed for **Fleasion**
+- 💻 Windows, macOS, and Linux (Sober) support
 - 📦 Community-made configs and assets
-- 🔄 New configs and assets will be added regularly
+- 🔄 New configs and assets will be added over time
 
 ---
 
