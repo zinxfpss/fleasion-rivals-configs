@@ -1,42 +1,45 @@
-# 🔊 osu! Hitsound for Rivals
+# 🎨 Fleasion Rivals Configs
 
-**A custom osu! hitsound for [Roblox Rivals](https://www.roblox.com/games/17625359962/RIVALS), made to be used with [Fleasion](https://github.com/fleasion/Fleasion).**
+**A collection of custom configs, sounds, skins, and other modifications for [Fleasion](https://github.com/fleasion/Fleasion) in Roblox Rivals.**
 
 ---
 
-## 🔊 osu! Hitsound
+## 📦 What's Included
 
-A custom **osu! hitsound** for Roblox Rivals.
+This repository will contain various **Fleasion configs and custom assets** for Roblox Rivals.
 
-### 📁 Download
+### 🔊 Sounds
+- Custom hitsounds
+- Kill sounds
+- Other sound replacements
 
-- [**osu-hit-sound.mp3**](./osu-hit-sound.mp3)
-
-Download the `.mp3` file and use it with Fleasion.
+### 🎨 More Coming Soon
+- Skins
+- Textures
+- Skyboxes
+- Other custom configs
 
 ---
 
 ## 🚀 How to Use
 
-| **Step** | **What to do** |
-| -------- | -------------- |
-| 1️⃣ | Install [Fleasion](https://github.com/fleasion/Fleasion). |
-| 2️⃣ | Download **osu-hit-sound.mp3** from this repository. |
-| 3️⃣ | Open Fleasion → **Open Config** to open your config folder. |
-| 4️⃣ | Place the hitsound file in the appropriate Fleasion config/location. |
-| 5️⃣ | Enable the config in Fleasion. |
+1. Install [Fleasion](https://github.com/fleasion/Fleasion).
+2. Download the config or asset you want from this repository.
+3. Open your Fleasion config folder.
+4. Place the downloaded files in the appropriate location.
+5. Enable the config through Fleasion.
 
 ---
 
 ## 📌 About
 
 - 🎮 Made for **Roblox Rivals**
-- 🔊 Uses an **osu! style hitsound**
 - ⚙️ Designed for **Fleasion**
-- 📦 Simple and lightweight
+- 📦 Community-made configs and assets
+- 🔄 More configs will be added over time
 
 ---
 
 ## ⚠️ Disclaimer
 
-This is a fan-made custom sound configuration for Roblox Rivals and is not affiliated with or endorsed by Roblox, RIVALS, osu!, or Fleasion.
+This repository is not affiliated with or endorsed by Roblox, RIVALS, or Fleasion.
